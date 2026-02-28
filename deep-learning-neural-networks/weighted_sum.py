@@ -1,8 +1,8 @@
 import numpy as np
 
-inputs = np.array([0.3, 0.7])
-node_weights = np.array([0.2, 0.4])
-node_bias = 0.1
+inputs = np.array([0.3, 0.7])    # Input value
+node_weights = np.array([0.2, 0.4])    # Input value
+node_bias = 0.1    # Input value
 
 def compute_weighted_sum(inputs, node_weights, bias):
     return np.dot(inputs, node_weights) + bias
