@@ -1,5 +1,5 @@
 # IBM AI Engineering
-This is an incomplete collection of Jupyter Notebooks, programs, and code snippets from and created for the IBM AI Engineering Professional Certificate. The program focuses on practical AI engineering using machine learning, deep learning, and large language models (LLMs). It's for personal reference and not intended to be a complete set of materials and solutions. 
+This is an incomplete collection of Jupyter Notebooks, programs, and code snippets from and created for the IBM AI Engineering Professional Certificate. The program focuses on practical AI engineering using machine learning, deep learning, and large language models (LLMs). This project is for personal reference and not intended to be a complete set of materials and solutions. 
 
 ## Technical Topics
 
